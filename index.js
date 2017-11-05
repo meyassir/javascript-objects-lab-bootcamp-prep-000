@@ -1,1 +1,1 @@
-recipes = new Object({});
+recipes = {};
