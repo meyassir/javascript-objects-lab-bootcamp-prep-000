@@ -1,1 +1,1 @@
-recipes = {};
+let recipes = {};
